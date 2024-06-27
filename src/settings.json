@@ -1,0 +1,65 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Where Insights Become Inspiration in the World of Tech.",
+        "title": "Unlock Your Potential with Yay"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "highlightText": "Introducing our platform for next-gen tech discussions and breakthrough insights.",
+        "subtitle": "Dive into a world of technical insights and knowledge sharing. Our blog is crafted for software engineers to simplify complex concepts and foster innovation.",
+        "title": "Empower Your Technical Journey with Our Blog"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Where Insights Become Inspiration in the World of Tech.",
+        "title": "Unlock Your Potential with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Where Insights Become Inspiration in the World of Tech.",
+        "title": "Unlock Your Potential with Yay"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Where Insights Become Inspiration in the World of Tech.",
+        "title": "Unlock Your Potential with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Where Insights Become Inspiration in the World of Tech.",
+        "title": "Unlock Your Potential with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Where Insights Become Inspiration in the World of Tech.",
+        "title": "Unlock Your Potential with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Where Insights Become Inspiration in the World of Tech.",
+        "title": "Unlock Your Potential with Yay"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Unlock Your Potential with Yay",
+  "subtitle": "Where Insights Become Inspiration in the World of Tech."
+}
